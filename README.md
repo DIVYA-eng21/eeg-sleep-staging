@@ -41,3 +41,8 @@ download it and open in Google Colab — everything works fine there.
 
 ## Tech Stack
 Python, MNE, Scikit-learn, TensorFlow, Keras, SciPy, SMOTE
+
+## References
+- Kemp et al. (2000). Sleep-EDF dataset. 
+  IEEE Transactions on Biomedical Engineering, 47(9), 1185-1194.
+- Goldberger et al. (2000). PhysioNet. Circulation.
